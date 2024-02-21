@@ -1,0 +1,6 @@
+name="basant"
+if True:
+    print("strikers bk")
+else:
+    print('strikers')
+
